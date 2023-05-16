@@ -1,4 +1,4 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P ZX
 
 RN
@@ -6,7 +6,6 @@ RV NO_DIRECT_BOOLEAN_OPERATORS
 RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
 RV NO_IMPLEMENTATION_RESTRICTIONS
 RR NO_ELABORATION_CODE
-RV SPARK_05
 
 U system.arith_64%b	s-arit64.adb		3f682950 NE OL PK
 W componolit%s		componolit.ads		componolit.ali
@@ -32,7 +31,6 @@ D interfac.ads		00000000000000 5ab55268 interfaces%s
 D system.ads		00000000000000 b7b1312c system%s
 D s-arit64.ads		00000000000000 a9f12339 system.arith_64%s
 D s-arit64.adb		00000000000000 a7613ff7 system.arith_64%b
-D s-unstyp.ads		00000000000000 34867c83 system.unsigned_types%s
 G a e
 G c Z s b [add_with_ovflo_check system__arith_64 59 13 none]
 G c Z s b [subtract_with_ovflo_check system__arith_64 68 13 none]

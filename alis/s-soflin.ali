@@ -1,11 +1,10 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P SS ZX
 
 RN
 RV NO_ACCESS_SUBPROGRAMS
 RV NO_STANDARD_STORAGE_POOLS
 RV NO_IMPLEMENTATION_PRAGMAS
-RV SPARK_05
 
 U system.soft_links%b	s-soflin.adb		6e7dd76c NE OL PK
 W componolit%s		componolit.ads		componolit.ali

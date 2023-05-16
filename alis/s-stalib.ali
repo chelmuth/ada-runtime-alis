@@ -1,4 +1,4 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P SS ZX
 
 RN
@@ -8,7 +8,6 @@ RV NO_STANDARD_STORAGE_POOLS
 RV NO_UNCHECKED_CONVERSION
 RV NO_IMPLEMENTATION_PRAGMAS
 RV NO_OBSOLESCENT_FEATURES
-RV SPARK_05
 
 U system.standard_library%b  s-stalib.adb	555faa06 NE OL PK
 W system%s		system.ads		system.ali

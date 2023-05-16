@@ -1,11 +1,10 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P ZX
 
 RN
 RV NO_IMPLICIT_CONDITIONALS
 RV NO_DYNAMIC_SIZED_OBJECTS
 RV NO_IMPLEMENTATION_PRAGMAS
-RV SPARK_05
 
 U componolit.runtime.debug%b  componolit-runtime-debug.adb  d18d0853 NE OO PK
 W componolit.runtime%s	componolit-runtime.ads	componolit-runtime.ali

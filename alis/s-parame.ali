@@ -1,9 +1,8 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P ZX
 
 RN
 RV NO_IMPLEMENTATION_ATTRIBUTES
-RV SPARK_05
 
 U system.parameters%b	s-parame.adb		5def8910 NE OL PK
 W system%s		system.ads		system.ali

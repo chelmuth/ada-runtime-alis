@@ -1,10 +1,9 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P ZX
 
 RN
 RV NO_FLOATING_POINT
 RV NO_IMPLEMENTATION_PRAGMAS
-RV SPARK_05
 
 U interfaces.c%b	i-c.adb			d3f0c580 NE OL PK
 W interfaces%s		interfac.ads		interfac.ali

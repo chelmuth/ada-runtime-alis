@@ -1,11 +1,10 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P ZX
 
 RN
 RV NO_DIRECT_BOOLEAN_OPERATORS
 RV NO_UNCHECKED_CONVERSION
 RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
-RV SPARK_05
 
 U componolit.runtime.conversions%b  componolit-runtime-conversions.adb  53280cc3 NE OO PK
 W ada%s			ada.ads			ada.ali

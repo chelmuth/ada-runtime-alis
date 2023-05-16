@@ -1,10 +1,9 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P ZX
 
 RN
 RV NO_LONG_LONG_INTEGERS
 RV NO_STANDARD_STORAGE_POOLS
-RV SPARK_05
 
 U interfaces.c.extensions%s  i-cexten.ads	6e7b508c NE OL PU PK
 W interfaces.c%s	i-c.adb			i-c.ali

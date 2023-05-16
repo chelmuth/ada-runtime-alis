@@ -1,8 +1,7 @@
-V "GNAT Lib v10"
+V "GNAT Lib v12"
 P ZX
 
 RN
-RV SPARK_05
 
 U system.exp_int%b	s-expint.adb		dde34de3 NE OL PK
 W system%s		system.ads		system.ali
